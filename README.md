@@ -8,7 +8,7 @@ course "keys," choosing a branch and specialization, and finally facing my own
 graduation project (an 18-DOF hexapod robot) as the final boss. It ends in a trophy
 gallery of real projects and a hire-me screen.
 
-Play it here ← replace with your live GitHub Pages / Netlify link
+Play it here -> (https://profxxxg.github.io/En-G-ineer/) or (https://en-g-ineer.netlify.app/)
 
 
 Why this exists
@@ -41,7 +41,7 @@ Runs entirely client-side. No tracking, no cookies, no backend.
 
 Project structure
 
-en-g-ineer.html   ← the entire game (markup, styles, engine, content, assets)
+index.html   ← the entire game (markup, styles, engine, content, assets)
 README.md         ← this file
 
 Everything lives in one file on purpose — it's meant to be forkable, inspectable,
@@ -51,16 +51,15 @@ Running it locally
 
 Just open en-g-ineer.html in a browser. That's the whole setup.
 
-bashgit clone https://github.com/<your-username>/en-g-ineer.git
-cd en-g-ineer
-open en-g-ineer.html   # or just double-click it
+bashgit clone https://github.com/profxxxg/En-G-ineer.git
+cd En-G-ineer
+open index.html   # or just double-click it
 
 Deployment
 
-Currently hosted on [GitHub Pages / Netlify — pick one]. Since it's a single
+Currently hosted on [GitHub / Netlify]. Since it's a single
 static file, it can be redeployed anywhere (Vercel, Cloudflare Pages, S3, etc.)
-by uploading en-g-ineer.html and, if the host expects it, renaming it to
-index.html.
+by uploading index.html.
 
 The real projects behind the game
 
