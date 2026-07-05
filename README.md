@@ -8,7 +8,7 @@ course "keys," choosing a branch and specialization, and finally facing my own
 graduation project (an 18-DOF hexapod robot) as the final boss. It ends in a trophy
 gallery of real projects and a hire-me screen.
 
-Play it here -> (https://profxxxg.github.io/En-G-ineer/) or (https://en-g-ineer.netlify.app/)
+Play it here -> (https://profxxxg.github.io/En-G-ineer/)
 
 
 Why this exists
